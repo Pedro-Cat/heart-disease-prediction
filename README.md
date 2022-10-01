@@ -31,3 +31,5 @@ Dataset tem 14 colunas:
 **thal:** Categoria de talassemia, corpo com menos hemoglobina (0 a 3 / sem ou erro de digitação, reversível, normal, tratada)
 
 **output:** Pessoas que tiveram doença do coração (0 ou 1 / não ou sim)
+# Classifier:
+**KNN**
