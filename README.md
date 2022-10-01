@@ -2,6 +2,7 @@
 Análise exploratória dos dados e criação de modelo KNN para predição de doença do coração.
 # Dataset Description:
 Dataset tem 303 samples.
+
 Dataset tem 14 colunas:
 
 **age:** Idade (int)
