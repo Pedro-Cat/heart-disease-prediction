@@ -1,6 +1,6 @@
 # heart-disease-prediction
 Análise exploratória dos dados e criação de modelo KNN para predição de doença do coração.
-# Dataset Description:
+# Descrição do dataset:
 Dataset tem 303 samples.
 
 Dataset tem 14 colunas:
@@ -32,5 +32,5 @@ Dataset tem 14 colunas:
 **thal:** Categoria de talassemia, corpo com menos hemoglobina (0 a 3 / sem ou erro de digitação, reversível, normal, tratada)
 
 **output:** Pessoas que tiveram doença do coração (0 ou 1 / não ou sim)
-# Classifier:
+# Classificadores:
 **KNN**
