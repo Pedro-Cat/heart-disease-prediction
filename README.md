@@ -34,3 +34,13 @@ Dataset tem 14 colunas:
 **output:** Pessoas que tiveram doença do coração (0 ou 1 / não ou sim)
 # Classificadores:
 **KNN**
+
+**MLP**
+
+**Decision Tree**
+
+**Random Forest**
+
+**Naive Bayes**
+
+**GaussNB**
