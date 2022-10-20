@@ -1,5 +1,5 @@
 # heart-disease-prediction
-Análise exploratória dos dados e criação de modelo KNN para predição de doença do coração.
+Análise exploratória dos dados e criação de modelos para predição de doença do coração.
 # Descrição do dataset:
 Dataset tem 303 samples.
 
